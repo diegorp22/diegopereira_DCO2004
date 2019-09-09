@@ -6,7 +6,7 @@
 
 
 ### D03: Construção do arquivo Pratica01.ipynb, como especificado em Hands-on 00: Básico do Jupyter Notebook: Instalação e prática, e seu armazenamento no seu respositório do Github (add, commit e push):
--[Link - Pratica01](https://github.com/diegorp22/diegopereira_DCO2004/blob/master/HD00-Pratica01.ipynb)
+-[Link - Pratica01](https://github.com/diegorp22/diegopereira_DCO2004/blob/master/HD00-Pratica01.html)
 
 ### D04: Construção do arquivo testMatlab.ipynb, como especificado em Hands-on 00: Jupyter Notebook para Matlab: Instalação de Kernel, e seu armazenamento no seu respositório do Github (add, commit e push):
 -[Link - testMatlab](https://github.com/diegorp22/diegopereira_DCO2004/blob/master/HD00-Pratica01.ipynb)
