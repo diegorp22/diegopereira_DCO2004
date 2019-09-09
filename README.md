@@ -2,6 +2,8 @@
 ## Hands-on 00
 
 ### D02: Criação de máquina virtual como especificado em Hands-on 00: Criação de máquina virtual Ubuntu. Escolher entre o Ubuntu 14.04.06 ou o Ubuntu 18.04.2. Gravar uma vídeo de no máximo 1 minuto, mostrando a execução de sua máquina virtual. Armazenar no seu respositório do Github (add, commit e push).
+![print-Ubuntu](https://github.com/diegorp22/diegopereira_DCO2004/blob/master/HD00-print_Ubuntu-version.png)
+
 
 ### D03: Construção do arquivo Pratica01.ipynb, como especificado em Hands-on 00: Básico do Jupyter Notebook: Instalação e prática, e seu armazenamento no seu respositório do Github (add, commit e push):
 
