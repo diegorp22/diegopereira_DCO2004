@@ -1,0 +1,37 @@
+close all;clc;clear all;                     % Limpa variáveis e fecha todos os gráficos
+FlautaFile = ['Flauta.wav'];                 % Especifica do local e nome do arquivo de áudio
+ViolinoFile = ['Violino.wav'];               % Especifica do local e nome do arquivo de áudio
+
+[vtFlauta,  fs1] = audioread(FlautaFile);    % Abre arquivo de áudio de um arquivo
+[vtViolino, fs2] = audioread(ViolinoFile);   % Abre arquivo de áudio de um arquivo
+
+%% FFT
+
+T = 1/fs1;             % Sampling period       
+L1 = length(vtFlauta);  % Length of signal
+t1 = (0:L1-1)*T;         % Time vector
+L2 = length(vtViolino);  % Length of signal
+t2 = (0:L2-1)*T;         % Time vector
+
+
+
+Y = fft(vtFlauta);
+
+P2 = abs(Y/L);
+
+P1 = P2(1:L/2+1);
+P1(2:end-1) = 2*P1(2:end-1);
+
+f = fs1*(0:(L/2))/L;
+
+subplot(2,1,1);
+plot(f,P1)
+title('Espectro da Flauta')
+xlabel('f (Hz)')
+ylabel('|P1(f)|')
+
+subplot(2,1,2);
+plot(f,P1)
+title('Espectro do Violino')
+xlabel('f (Hz)')
+ylabel('|P1(f)|')
