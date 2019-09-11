@@ -34,11 +34,13 @@ f2 = fs2*(0:(L2/2))/L2;
 subplot(2,1,1);
 plot(f1,Pb1)
 title('Espectro da Flauta')
-xlabel('f (Hz)')
-ylabel('|P1(f)|')
+grid;
+xlabel('Frequência, Hz')
+ylabel('Magnitude')
 
 subplot(2,1,2);
 plot(f2,Pb2)
 title('Espectro do Violino')
-xlabel('f (Hz)')
-ylabel('|P1(f)|')
+grid;
+xlabel('Frequência, Hz')
+ylabel('Magnitude')
