@@ -25,10 +25,10 @@ Assim como a maioria dos ambientes de desenvolvimento, o Matlab trabalha com div
 ![print-Ubuntu](https://github.com/diegorp22/diegopereira_DCO2004/blob/master/HD01-print_Variaveis.png)
 
 #### D03 - Realizar a Prática 03: Tempo de execução com uso de laço e com operação matricial no Matlab, incluindo um terceiro roteador a 50% da dimensão vertical e a 80% da dimensão horizontal (Hands-on 01: Tutorial de apresentação e uso básico do Matlab). Fazer código somente com a versão matricial e no arquivo .ipynb;
-![print-Ubuntu](https://nbviewer.jupyter.org/github/diegorp22/diegopereira_DCO2004/blob/master/HD01-PlotMatlab.ipynb)
+- [Link - Atividade Matlab](https://nbviewer.jupyter.org/github/diegorp22/diegopereira_DCO2004/blob/master/HD01-PlotMatlab.ipynb)
 
 #### D04 - Realizar a Prática 03: Tempo de execução com uso de laço e com operação matricial no Python, incluindo um terceiro roteador a 50% da dimensão vertical e a 80% da dimensão horizontal (Hands-on 01: Tutorial de apresentação e uso básico do Matlab). Fazer código somente com a versão matricial e no arquivo .ipynb.
-![print-Ubuntu](https://nbviewer.jupyter.org/github/diegorp22/diegopereira_DCO2004/blob/master/HD01-PlotPython.ipynb)
+- [Link - Atividade Python](https://nbviewer.jupyter.org/github/diegorp22/diegopereira_DCO2004/blob/master/HD01-PlotPython.ipynb)
 
 
 
