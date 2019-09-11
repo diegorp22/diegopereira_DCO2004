@@ -53,6 +53,7 @@ Plote do espectro dos arquivos Violino.wav e Flauta.wav que estão na pasta ./MA
 Explicaque dos gráficos e disserte sobre a comparação dos dois espectros;
 Mostre que você consegue obter resultados similares no Matlab e no Python. Use o mesmo arquivo .ipynb para abrigar códigos do  Matlab e Python. (PS.: Para executar os códigos de linguagens diferentes é só intercalar os kernels).
 
+- [Link - Atividade Matlab](https://nbviewer.jupyter.org/github/diegorp22/diegopereira_DCO2004/blob/master/HD03_matlab.ipynb)
 
 
 
