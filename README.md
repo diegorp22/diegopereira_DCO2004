@@ -1,7 +1,6 @@
 # REPOSITÓRIO PARA ENTREGAS
 
-
-
+# Unidade 1
 
 ## Hands-on 00
 #### D02: Criação de máquina virtual como especificado em Hands-on 00: Criação de máquina virtual Ubuntu. Escolher entre o Ubuntu 14.04.06 ou o Ubuntu 18.04.2. Gravar uma vídeo de no máximo 1 minuto, mostrando a execução de sua máquina virtual. Armazenar no seu respositório do Github (add, commit e push).
@@ -59,11 +58,15 @@ Mostre que você consegue obter resultados similares no Matlab e no Python. Use 
 
 
 
+## Hands-on 04
+#### D01: Passo 1 da Prática 04: Cálculo de potência média (Hands-on 04: Operações importantes com sinais). Criar e incluir no seu repositório um arquivo chamado Entrega_h04.ipynb com o texto e código, se necessário.
+
+- [Link - Atividade Matlab](https://nbviewer.jupyter.org/github/diegorp22/diegopereira_DCO2004/blob/master/HD04_matlab.ipynb)
 
 
+# Unidade 2
 
-
-
+# Unidade 3
 
 
 # No que diz respeito ao empenho, ao compromisso, ao esforço, à dedicação, não existe meio termo. Ou você faz uma coisa bem feita ou não faz. - Ayrton Senna
