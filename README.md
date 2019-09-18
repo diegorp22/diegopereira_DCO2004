@@ -16,6 +16,7 @@
 
 
 
+
 ## Hands-on 01
 #### D01 - Discussão do Passo 08 da Prática 01: Ambiente de edição (Hands-on 01: Tutorial de apresentação e uso básico do Matlab):
 Assim como a maioria dos ambientes de desenvolvimento, o Matlab trabalha com diversos tipos de variáveis. Podemos elencar das variáveis mais simples como um inteiro igual à 1 até matrizes NxM. Além disso, o ambiente pode fornecer diversos formatos para as variáveis (long, short, rat e etc), e sey uso vai de acordo com a necessidade.
@@ -40,6 +41,7 @@ Assim como a maioria dos ambientes de desenvolvimento, o Matlab trabalha com div
 *Código no Git
 
 #### D02: Passo 2 da Prática 03: Abrindo e reproduzindo arquivos de música (Hands-on 02: Visualização de sinais no tempo (vendo e ouvindo um sinal)). Criar e incluir no seu repositório um arquivo chamado Entrega_h02.ipynb com o texto e código, se necessário.
+- [Link - Passo 5 Pratica 2](https://nbviewer.jupyter.org/github/diegorp22/diegopereira_DCO2004/blob/master/HD02_matlab.ipynb)
 
 *Alteração a: vtSom = [vtSom; vtSom]
 
@@ -54,8 +56,11 @@ Assim como a maioria dos ambientes de desenvolvimento, o Matlab trabalha com div
 ![alt3](https://github.com/diegorp22/diegopereira_DCO2004/blob/master/HD02-alt3.png)
 
 #### D03: Passo 5 Prática 1: Geração, reprodução e plotagem de um tom de áudio (Hands-on 02: Visualização de sinais no tempo (vendo e ouvindo um sinal)). Criar e incluir no seu repositório um arquivo chamado Entrega_h02.ipynb com o texto e código, se necessário.
+- [Link - Passo 5 Prática 1](https://nbviewer.jupyter.org/github/diegorp22/diegopereira_DCO2004/blob/master/HD02_python1.ipynb)
 
 #### D04: Passo 5 Prática 2: Abrindo e reproduzindo arquivos de música (Hands-on 02: Visualização de sinais no tempo (vendo e ouvindo um sinal)). Criar e incluir no seu repositório um arquivo chamado Entrega_h02.ipynb com o texto e código, se necessário.
+
+- [Link - Passo 5 Pratica 2](https://nbviewer.jupyter.org/github/diegorp22/diegopereira_DCO2004/blob/master/HD02_python2.ipynb)
 
 
 
