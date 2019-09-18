@@ -1,5 +1,5 @@
 close all;clc;clear all;                                          % Limpa variáveis e fecha todos os gráficos
-soundFile = ['./MATERIAL/HD_02_MATLAB/sound_01.wav'];             % Especifica do local e nome do arquivo de áudio
+soundFile = ['sound_01.wav'];             % Especifica do local e nome do arquivo de áudio
 [vtSom, dFa] = audioread(soundFile);                              % Abre arquivo de áudio de um arquivo
 % vtSom: amplitude das amostras de som
 % dFa: frequência de amostrasgem do som (amostragem no tempo)
