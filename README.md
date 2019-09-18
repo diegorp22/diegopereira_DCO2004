@@ -41,13 +41,16 @@ Assim como a maioria dos ambientes de desenvolvimento, o Matlab trabalha com div
 
 #### D02: Passo 2 da Prática 03: Abrindo e reproduzindo arquivos de música (Hands-on 02: Visualização de sinais no tempo (vendo e ouvindo um sinal)). Criar e incluir no seu repositório um arquivo chamado Entrega_h02.ipynb com o texto e código, se necessário.
 
-Alteração a: vtSom = [vtSom; vtSom];
+*Alteração a: vtSom = [vtSom; vtSom]
+
 ![alt1](https://github.com/diegorp22/diegopereira_DCO2004/blob/master/HD02-alt1.png)
 
-Alteração b: vtSom = [vtSom vtSom];
+*Alteração b: vtSom = [vtSom vtSom]
+
 ![alt2](https://github.com/diegorp22/diegopereira_DCO2004/blob/master/HD02-alt2.png)
 
-Alteração c: vtSom = [vtSom flip(vtSom)];
+*Alteração c: vtSom = [vtSom flip(vtSom)]
+
 ![alt3](https://github.com/diegorp22/diegopereira_DCO2004/blob/master/HD02-alt3.png)
 
 #### D03: Passo 5 Prática 1: Geração, reprodução e plotagem de um tom de áudio (Hands-on 02: Visualização de sinais no tempo (vendo e ouvindo um sinal)). Criar e incluir no seu repositório um arquivo chamado Entrega_h02.ipynb com o texto e código, se necessário.
