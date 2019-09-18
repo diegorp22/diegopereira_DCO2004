@@ -29,11 +29,15 @@ Assim como a maioria dos ambientes de desenvolvimento, o Matlab trabalha com div
 #### D04 - Realizar a Prática 03: Tempo de execução com uso de laço e com operação matricial no Python, incluindo um terceiro roteador a 50% da dimensão vertical e a 80% da dimensão horizontal (Hands-on 01: Tutorial de apresentação e uso básico do Matlab). Fazer código somente com a versão matricial e no arquivo .ipynb.
 - [Link - Atividade Python](https://nbviewer.jupyter.org/github/diegorp22/diegopereira_DCO2004/blob/master/HD01-PlotPython.ipynb)
 
+ 	
 
 
 
 ## Hands-on 02
 #### D01: Interface gráfica utilizando recursos do GUI (Graphical User Interface) do Matlab para criar um instrumento musical (um piano digital) com oito notas (veja Passo 5 da Prática 1: Geração, reprodução e plotagem de um tom de áudio de Hands-on 02: Visualização de sinais no tempo (vendo e ouvindo um sinal));
+![print-GUI](https://github.com/diegorp22/diegopereira_DCO2004/blob/master/Print_GUI_piano.png)
+
+*Código no Git
 
 #### D02: Passo 2 da Prática 03: Abrindo e reproduzindo arquivos de música (Hands-on 02: Visualização de sinais no tempo (vendo e ouvindo um sinal)). Criar e incluir no seu repositório um arquivo chamado Entrega_h02.ipynb com o texto e código, se necessário.
 
