@@ -19,7 +19,7 @@
 
 ## Hands-on 01
 #### D01 - Discussão do Passo 08 da Prática 01: Ambiente de edição (Hands-on 01: Tutorial de apresentação e uso básico do Matlab):
-Assim como a maioria dos ambientes de desenvolvimento, o Matlab trabalha com diversos tipos de variáveis. Podemos elencar das variáveis mais simples como um inteiro igual à 1 até matrizes NxM. Além disso, o ambiente pode fornecer diversos formatos para as variáveis (long, short, rat e etc), e sey uso vai de acordo com a necessidade.
+*Assim como a maioria dos ambientes de desenvolvimento, o Matlab trabalha com diversos tipos de variáveis. Podemos elencar das variáveis mais simples como um inteiro igual à 1 até matrizes NxM. Além disso, o ambiente pode fornecer diversos formatos para as variáveis (long, short, rat e etc), e sey uso vai de acordo com a necessidade.
 
 #### D02 - Passo 03 da Prática 02: Ambiente de depuração (debug) (Hands-on 01: Tutorial de apresentação e uso básico do Matlab):
 ![print-Ubuntu](https://github.com/diegorp22/diegopereira_DCO2004/blob/master/HD01-print_Variaveis.png)
@@ -85,7 +85,22 @@ Mostre que você consegue obter resultados similares no Matlab e no Python. Use 
 - [Link - Atividade Matlab](https://nbviewer.jupyter.org/github/diegorp22/diegopereira_DCO2004/blob/master/HD04_matlab.ipynb)
 
 
+
+
+
 # Unidade 2
+## Hands-on 05
+#### D01: Criar e incluir no seu repositório um arquivo chamado Entrega_h05.ipynb com código exclusivamente em Python com o seguinte conteúdo:
+
+*Passos 3 e 4 da Prática 1: Modulação AM-DSB. Comite o arquivo Entrega_h05.ipynb com os códigos rodados e com os gráficos aparecendo e os comentários realizados. Se precisar, repita trechos inteiros de código para que o documento fique autocontido.
+
+- [Link - Atividade Matlab](https://nbviewer.jupyter.org/github/diegorp22/diegopereira_DCO2004/blob/master/HD05_python.ipynb)
+
+*Passo 3 da Prática 2: recepção AM-DSB (detecção de envoltória). Comite o arquivo Entrega_h05.ipynb com os códigos rodados e com os gráficos e os resultados numéricos aparecendo. Inclua as discussões no próprio documento e não no trecho de código. Se precisar, repita trechos inteiros de código para que o documento fique autocontido.
+
+*Passo 3 da Prática 8: Sinal analítico, Transformada de Hilbert e seu uso em demodulação. Comite o arquivo Entrega_h05.ipynb com os códigos rodados e com os gráficos e os resultados numéricos aparecendo. Inclua as discussões no próprio documento e não no trecho de código. Se precisar, repita trechos inteiros de código para que o documento fique autocontido.
+
+
 
 # Unidade 3
 
