@@ -101,6 +101,28 @@ Mostre que você consegue obter resultados similares no Matlab e no Python. Use 
 - [Link - Atividade Python](https://nbviewer.jupyter.org/github/diegorp22/diegopereira_DCO2004/blob/master/HD05_python.ipynb)
 
 
+## Hands-on 06
+
+#### D01: Criar e incluir no seu repositório um arquivo chamado Entrega_h06.ipynb com código exclusivamente em Python com o seguinte conteúdo:
+
+*Passos 1 e 2 da Prática 2: Reconstrução ideal do sinal amostrado. Comite o arquivo Entrega_h06.ipynb com os códigos rodados (Matlab e Python) e com os gráficos aparecendo e os comentários realizados. Se precisar repita trechos inteiros de código para que o documento fique autocontido. As figuras devem ser resultado da execução do código e não figuras inseridas em formato png ou jpg.
+
+*Prática 3: Quantização. Comite o arquivo Entrega_h06.ipynb com os códigos rodados e com os gráficos e os resultados numéricos aparecendo. Inclua as discussões no próprio documento e não no trecho de código. Se precisar repita trechos inteiros de código para que o documento fique autocontido. As figuras devem ser resultado da execução do código e não figuras inseridas em formato png ou jpg. Esse tem tem dois subitens (especificados ao final da Prática 3). Cuidado com isso!!!
+
+*Prática 5: Multiplexação e demultiplexação (TDM). Comite o arquivo Entrega_h06.ipynbcom os códigos rodados e com os gráficos e os resultados numéricos aparecendo. Inclua as discussões no próprio documento e não no trecho de código. Se precisar repita trechos inteiros de código para que o documento fique autocontido. As figuras devem ser resultado da execução do código e não figuras inseridas em formato png ou jpg.
+- [Link - Atividade](https://nbviewer.jupyter.org/github/diegorp22/diegopereira_DCO2004/blob/master/Unidade2/HD06_matlab.ipynb)
+
+
+## Hands-on 07
+
+## Hands-on 08
+
+#### D01: Criar e incluir no seu repositório um arquivo chamado Entrega_h08.ipynb com código e texto com o seguinte conteúdo:
+
+*Passo 4 da Prática 01: Ruído em comunicações analógicas. Commite o arquivo Entrega_h08.ipynb com os códigos rodados (Matlab e Python), gráficos (sendo exibidos) e comentários realizados. Se precisar repita trechos inteiros de código para que o documento fique autocontido. As figuras devem ser resultado da execução do código e não figuras inseridas em formato png ou jpg. Esse item tem três subitens. Cuidado com isso!!!
+
+*Passo 2 Prática 02: Ruídos em comunicações digitais. Commite o arquivo Entrega_h08.ipynb com os códigos rodados, gráficos e resultados numéricos sendo exibidos. Inclua as discussões no próprio documento e não no trecho de código. Se precisar repita trechos inteiros de código para que o documento fique autocontido. As figuras devem ser resultado da execução do código e não figuras inseridas em formato png ou jpg.
+
 # Unidade 3
 
 
