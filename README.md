@@ -125,6 +125,9 @@ Mostre que você consegue obter resultados similares no Matlab e no Python. Use 
 
 # Unidade 3
 
+#### D01: Criar e incluir no seu repositório um arquivo chamado Entrega_h09.ipynb com código e texto com o seguinte conteúdo:
+*Entregar os códigos da Hands-on 09: Modulação Digital (modulação, demodulação e desempenho em ruído AWGN) - Parte 01 em Python. Comite o arquivo Entrega_h09.ipynb com os códigos rodados e com os gráficos aparecendo. Se necessário, insira comentários sobre o código. As figuras devem ser resultado da execução do código e não figuras inseridas em formato png ou jpg.
+- [Link - Atividade](https://github.com/diegorp22/diegopereira_DCO2004/blob/master/Unidade3/HO-09.ipynb)
 
 # No que diz respeito ao empenho, ao compromisso, ao esforço, à dedicação, não existe meio termo. Ou você faz uma coisa bem feita ou não faz. - Ayrton Senna
 ![Ayrton Senna](https://statig1.akamaized.net/bancodeimagens/8h/5f/n4/8h5fn4f4lf1gimpvs9iofogfd.jpg)
