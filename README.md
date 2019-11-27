@@ -112,7 +112,6 @@ Mostre que você consegue obter resultados similares no Matlab e no Python. Use 
 *Prática 5: Multiplexação e demultiplexação (TDM). Comite o arquivo Entrega_h06.ipynbcom os códigos rodados e com os gráficos e os resultados numéricos aparecendo. Inclua as discussões no próprio documento e não no trecho de código. Se precisar repita trechos inteiros de código para que o documento fique autocontido. As figuras devem ser resultado da execução do código e não figuras inseridas em formato png ou jpg.
 - [Link - Atividade](https://nbviewer.jupyter.org/github/diegorp22/diegopereira_DCO2004/blob/master/Unidade2/HD06_matlab.ipynb)
 
-
 ## Hands-on 07
 
 ## Hands-on 08
@@ -124,10 +123,25 @@ Mostre que você consegue obter resultados similares no Matlab e no Python. Use 
 *Passo 2 Prática 02: Ruídos em comunicações digitais. Commite o arquivo Entrega_h08.ipynb com os códigos rodados, gráficos e resultados numéricos sendo exibidos. Inclua as discussões no próprio documento e não no trecho de código. Se precisar repita trechos inteiros de código para que o documento fique autocontido. As figuras devem ser resultado da execução do código e não figuras inseridas em formato png ou jpg.
 
 # Unidade 3
-
+## Hands-on 09
 #### D01: Criar e incluir no seu repositório um arquivo chamado Entrega_h09.ipynb com código e texto com o seguinte conteúdo:
 *Entregar os códigos da Hands-on 09: Modulação Digital (modulação, demodulação e desempenho em ruído AWGN) - Parte 01 em Python. Comite o arquivo Entrega_h09.ipynb com os códigos rodados e com os gráficos aparecendo. Se necessário, insira comentários sobre o código. As figuras devem ser resultado da execução do código e não figuras inseridas em formato png ou jpg.
 - [Link - Atividade](https://github.com/diegorp22/diegopereira_DCO2004/blob/master/Unidade3/HO-09.ipynb)
+
+
+## Hands-on 10
+#### D01: D01: Criar e incluir no seu repositório um arquivo chamado Entrega_h10.ipynb com código e texto com o seguinte conteúdo:
+
+*Entregar os códigos da Hands-on 10: Modulação Digital em canais limitados em banda e Modulação Digital em banda-passante (modulação, demodulação e desempenho em ruído AWGN) em Python. Comite o arquivo Entrega_h10.ipynb com os códigos rodados e com os gráficos aparecendo. Se necessário, insira comentários sobre o código. As figuras devem ser resultado da execução do código e não figuras inseridas em formato png ou jpg.
+- [Link - Atividade](https://github.com/diegorp22/diegopereira_DCO2004/blob/master/Unidade3/HO-10.ipynb)
+
+
+## Hands-on 11
+#### D01: Criar e incluir no seu repositório um arquivo chamado Entrega_h11.ipynb com código e texto com o seguinte conteúdo:
+
+*Entregar os códigos da Hands-on 10: Modulação Digital em Canal com Desvanecimento (caracterização, modelagem e desempenho) em Matlab. Comite o arquivo Entrega_h11.ipynb com os códigos rodados e com os gráficos aparecendo. Se necessário, insira comentários sobre o código. As figuras devem ser resultado da execução do código e não figuras inseridas em formato png ou jpg.
+- [Link - Atividade](https://github.com/diegorp22/diegopereira_DCO2004/blob/master/Unidade3/HO-11.ipynb)
+
 
 # No que diz respeito ao empenho, ao compromisso, ao esforço, à dedicação, não existe meio termo. Ou você faz uma coisa bem feita ou não faz. - Ayrton Senna
 ![Ayrton Senna](https://statig1.akamaized.net/bancodeimagens/8h/5f/n4/8h5fn4f4lf1gimpvs9iofogfd.jpg)
